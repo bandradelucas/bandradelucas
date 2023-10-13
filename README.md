@@ -1,4 +1,4 @@
-# Hi, I'm Lucas! Welcome to the [_The World_](https://en.wikipedia.org/wiki/.hack//G.U.)
+# Hi, I'm Lucas! Welcome to [_The World_](https://en.wikipedia.org/wiki/.hack//G.U.)
 
 🔭 I’m currently working on [FELI](https://feli.com.vc/)
 
